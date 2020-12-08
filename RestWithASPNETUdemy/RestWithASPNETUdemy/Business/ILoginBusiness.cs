@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RestWithASPNETUdemy.Business
 {
-    interface ILoginBusiness
+    public interface ILoginBusiness
     {
         TokenVO ValidateCredentiasl(UserVO user);
     }

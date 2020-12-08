@@ -63,7 +63,7 @@ namespace RestWithASPNETUdemy.Services.Implementations
             if (jwtSecurityToken.Header.Alg.Equals(
                 SecurityAlgorithms.HmacSha256,
                 StringComparison.InvariantCulture) 
-                )) throw new SecurityTokenException("Invalid Token");
+                ) throw new SecurityTokenException("Invalid Token");
             return principal;
         }
     }

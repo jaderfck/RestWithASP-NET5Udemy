@@ -8677,19 +8677,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\55479\\.nuget\\packages\\": {}
+    "C:\\Users\\p22.fuck\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEV\\Udemy .Net\\RestWithASP-NET5Udemys_mine\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+      "projectUniqueName": "C:\\Dev\\Udemy\\RestWithASP-NET5Udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
       "projectName": "RestWithASPNETUdemy",
-      "projectPath": "C:\\DEV\\Udemy .Net\\RestWithASP-NET5Udemys_mine\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
-      "packagesPath": "C:\\Users\\55479\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV\\Udemy .Net\\RestWithASP-NET5Udemys_mine\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\obj\\",
+      "projectPath": "C:\\Dev\\Udemy\\RestWithASP-NET5Udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+      "packagesPath": "C:\\Users\\p22.fuck\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\Udemy\\RestWithASP-NET5Udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\55479\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\p22.fuck\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8697,6 +8697,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.webmotors.com.br/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
