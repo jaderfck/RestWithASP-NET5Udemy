@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AFbcd7yPcJ38NDFBUZknOf0OFJ8MZoP45Sefdrl/Nx3/hcrme2oRBliaSoU3VggnewJBuYwKxOzX2zIybZ/9QA==",
+  "dgSpecHash": "BQc2NWtk0/U+2mq4VMps8IzmYJDf6coQ4apNJ+5ITW9kHHCbiVi8nHhE7KBZJpICYFqcdV3iimI0xe4DcAcBIg==",
   "success": true,
-  "projectFilePath": "C:\\DEV\\Udemy .Net\\RestWithASP-NET5Udemy\\11_RestWithASPNETUdemy_ContentNegotiation\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+  "projectFilePath": "C:\\DEV\\Udemy .Net\\RestWithASP-NET5Udemys_mine\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\55479\\.nuget\\packages\\evolve\\2.4.0\\evolve.2.4.0.nupkg.sha512",
     "C:\\Users\\55479\\.nuget\\packages\\microsoft.applicationinsights\\2.15.0\\microsoft.applicationinsights.2.15.0.nupkg.sha512",

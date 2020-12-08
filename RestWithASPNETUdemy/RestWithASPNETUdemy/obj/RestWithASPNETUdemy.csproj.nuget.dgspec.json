@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DEV\\Udemy .Net\\RestWithASP-NET5Udemy\\11_RestWithASPNETUdemy_ContentNegotiation\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {}
+    "C:\\DEV\\Udemy .Net\\RestWithASP-NET5Udemys_mine\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {}
   },
   "projects": {
-    "C:\\DEV\\Udemy .Net\\RestWithASP-NET5Udemy\\11_RestWithASPNETUdemy_ContentNegotiation\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {
+    "C:\\DEV\\Udemy .Net\\RestWithASP-NET5Udemys_mine\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\Udemy .Net\\RestWithASP-NET5Udemy\\11_RestWithASPNETUdemy_ContentNegotiation\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+        "projectUniqueName": "C:\\DEV\\Udemy .Net\\RestWithASP-NET5Udemys_mine\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
         "projectName": "RestWithASPNETUdemy",
-        "projectPath": "C:\\DEV\\Udemy .Net\\RestWithASP-NET5Udemy\\11_RestWithASPNETUdemy_ContentNegotiation\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+        "projectPath": "C:\\DEV\\Udemy .Net\\RestWithASP-NET5Udemys_mine\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
         "packagesPath": "C:\\Users\\55479\\.nuget\\packages\\",
-        "outputPath": "C:\\DEV\\Udemy .Net\\RestWithASP-NET5Udemy\\11_RestWithASPNETUdemy_ContentNegotiation\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\obj\\",
+        "outputPath": "C:\\DEV\\Udemy .Net\\RestWithASP-NET5Udemys_mine\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\55479\\AppData\\Roaming\\NuGet\\NuGet.Config",
