@@ -14,10 +14,10 @@ before_deploy:
 deploy:
   provider: script
   script:
-    docker tag rest-with-asp-net-udemy-db: latest $DOCKER_USERNAME/rest-with-udemy-aps-net-udemy-db:latest;
-    docker tag rest-with-asp-net-udemy: latest $DOCKER_USERNAME/rest-with-udemy-aps-net-udemy:latest;
-    docker push $DOCKER_USERNAME/rest-with-udemy-aps-net-udemy;
-    docker push $DOCKER_USERNAME/rest-with-udemy-aps-net-udemy-db;
+    docker tag rest-with-asp-net-udemy-db: latest $DOCKER_USERNAME/rest-with-udemy-aps-net-udemy-db:$TRAVIS_JOB_ID;
+    docker tag rest-with-asp-net-udemy: latest $DOCKER_USERNAME/rest-with-udemy-aps-net-udemy:$TRAVIS_JOB_ID;
+    docker push $DOCKER_USERNAME/rest-with-udemy-aps-net-udemy:$TRAVIS_JOB_ID;
+    docker push $DOCKER_USERNAME/rest-with-udemy-aps-net-udemy-db:$TRAVIS_JOB_ID;
   on:
     branch: main
 notifications:
